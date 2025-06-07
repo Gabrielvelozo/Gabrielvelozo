@@ -122,7 +122,6 @@ body {
 .habilidad{
     margin: 10px 0;
     color: var(--dark-Mode);
-    font-size: 12px;
 }
 .habilidad__item{
     list-style-type: square;
